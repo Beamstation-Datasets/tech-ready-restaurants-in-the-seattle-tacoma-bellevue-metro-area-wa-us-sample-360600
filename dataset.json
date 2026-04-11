@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in the Seattle-Tacoma-Bellevue Metro Area, WA, US",
+  "export_job_id": "62f5a09a-4636-4193-b93f-5be0536c1e82",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 360600,
+  "location_name": "Seattle-Tacoma-Bellevue, WA",
+  "location_type": "metro",
+  "repo_name": "tech-ready-restaurants-in-the-seattle-tacoma-bellevue-metro-area-wa-us-sample-360600",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/360600/beamstation_360600_restaurants-us-seattletacomabellevuewa_SAMPLE_DIST.csv",
+  "sample_pct": 9.38,
+  "sample_records": 3,
+  "sample_sha256": "2b1a6c1328b91b14d5bfc290d9b88536ec38c05451a9a191a0b8fe43ae91f796",
+  "sample_size_bytes": 26842,
+  "total_records": 32,
+  "updated_at": "2026-04-08T05:55:33.394280+00:00"
+}
