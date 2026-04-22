@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in the Seattle-Tacoma-Bellevue Metro Area, WA, US
 
-> Free BeamStation sample export with 2 rows and masked direct-contact fields.
+> Free BeamStation sample export with 1 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `360600` |
 | Location | Seattle-Tacoma-Bellevue, WA |
 | Category | Restaurants |
-| Full dataset size | 23 records |
-| Free sample size | 2 records (8.7%) |
-| Last export | 2026-04-15T09:52:14.828831+00:00 |
+| Full dataset size | 11 records |
+| Free sample size | 1 records (9.09%) |
+| Last export | 2026-04-22T17:16:43.800122+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-seattle-tacoma-bellevue-metro-area-wa-us-sample-360600/releases/download/sample-latest/beamstation_360600_restaurants-us-seattletacomabellevuewa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
