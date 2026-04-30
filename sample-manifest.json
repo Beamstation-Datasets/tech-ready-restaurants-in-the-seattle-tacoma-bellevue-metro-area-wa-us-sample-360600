@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2445728e-9c61-4b62-8c1b-996383cb98f9",
+  "export_job_id": "c8e8673c-9a4c-4bd0-b970-e92fc958b5d5",
   "id_short": 360600,
-  "published_at": "2026-04-22T19:37:48Z",
+  "published_at": "2026-04-30T07:20:25Z",
   "repo_name": "tech-ready-restaurants-in-the-seattle-tacoma-bellevue-metro-area-wa-us-sample-360600",
   "sample_asset_name": "beamstation_360600_restaurants-us-seattletacomabellevuewa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/360600/beamstation_360600_restaurants-us-seattletacomabellevuewa_SAMPLE_DIST.csv",
-  "sample_records": 1,
-  "sample_sha256": "0b3f62baa09344ce7e1bac89fb9c75674fc5f39a174ca7dcd18191eb3ae13adc",
-  "sample_size_bytes": 21358,
-  "total_records": 11
+  "sample_records": 7,
+  "sample_sha256": "9852f4a657c1493033599dc3267005b9e2797ddbf128d8c5971138da055d8436",
+  "sample_size_bytes": 42585,
+  "total_records": 77
 }
